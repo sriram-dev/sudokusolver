@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\bin\Debug\Arrangement.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\bin\Debug\Arrangement.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\bin\Debug\Support.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\bin\Debug\Support.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\obj\Debug\Arrangement.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\Arrangement\obj\Debug\Arrangement.pdb

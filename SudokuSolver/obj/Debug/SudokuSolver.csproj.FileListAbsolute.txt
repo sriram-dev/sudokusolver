@@ -3,3 +3,9 @@ C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects
 C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
 C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.dll
 C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\Arrangement.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\Support.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\Arrangement.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\Support.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\CustomAlgorithms.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\CustomAlgorithms.pdb

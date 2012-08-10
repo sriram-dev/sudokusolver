@@ -40,8 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Solver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Arrangement\Arrangement.csproj">
+      <Project>{52A9444A-E93D-492A-9210-BCCA3BA75F5C}</Project>
+      <Name>Arrangement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PileExclusionAlgorithm\Algorithms.csproj">
+      <Project>{9FC135E6-A7F5-4111-8C58-3C4E106A18D0}</Project>
+      <Name>Algorithms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Support\Support.csproj">
+      <Project>{02A253AA-79DF-4E9E-A231-AEE039941163}</Project>
+      <Name>Support</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

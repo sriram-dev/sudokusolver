@@ -1,9 +1,0 @@
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\bin\Debug\CustomAlgorithms.dll
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\bin\Debug\CustomAlgorithms.pdb
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\bin\Debug\Arrangement.dll
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\bin\Debug\Support.dll
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\bin\Debug\Arrangement.pdb
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\bin\Debug\Support.pdb
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\obj\Debug\CustomAlgorithms.dll
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\PileExclusionAlgorithm\obj\Debug\CustomAlgorithms.pdb

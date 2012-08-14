@@ -49,6 +49,7 @@ namespace Support
         {
             for (int i = 0; i < mat.Length; i++)
             {
+                Console.Write("i  :");
                 for (int j = 0; j < mat[i].Count; j++)
                 {
                     Console.Write(mat[i][j] + ",");

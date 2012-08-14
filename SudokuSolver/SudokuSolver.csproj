@@ -48,7 +48,7 @@
       <Project>{52A9444A-E93D-492A-9210-BCCA3BA75F5C}</Project>
       <Name>Arrangement</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PileExclusionAlgorithm\Algorithms.csproj">
+    <ProjectReference Include="..\Algorithm\Algorithms.csproj">
       <Project>{9FC135E6-A7F5-4111-8C58-3C4E106A18D0}</Project>
       <Name>Algorithms</Name>
     </ProjectReference>

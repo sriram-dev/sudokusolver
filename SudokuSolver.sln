@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "PileExclusionAlgorithm\Algorithms.csproj", "{9FC135E6-A7F5-4111-8C58-3C4E106A18D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithm\Algorithms.csproj", "{9FC135E6-A7F5-4111-8C58-3C4E106A18D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Support", "Support\Support.csproj", "{02A253AA-79DF-4E9E-A231-AEE039941163}"
 EndProject

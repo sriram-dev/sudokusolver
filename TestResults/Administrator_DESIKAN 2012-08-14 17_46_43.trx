@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2e8dcea3-6d6a-49f1-96cb-eaab687db5fe" name="Administrator@DESIKAN 2012-08-14 17:46:43" runUser="DESIKAN\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f2c4afc6-9382-4691-97df-b6f3a27b204c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_DESIKAN 2012-08-14 17_46_43">
+      <DeploymentItem filename="C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-14T17:46:43.3125000+05:30" queuing="2012-08-14T17:46:44.1406250+05:30" start="2012-08-14T17:46:44.1562500+05:30" finish="2012-08-14T17:46:44.8593750+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestSolve" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\sudokusolver\sudokusolvertest\bin\debug\sudokusolvertest.dll" id="148ee9ca-84ae-922d-ee8d-c3c23005f153">
+      <Execution id="124d03ce-73c5-41f0-ad16-b854fcdd5b1f" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/my documents/visual studio 2010/Projects/SudokuSolver/SudokuSolverTest/bin/Debug/SudokuSolverTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SudokuSolverTest.SudokuTest, SudokuSolverTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSolve" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="148ee9ca-84ae-922d-ee8d-c3c23005f153" executionId="124d03ce-73c5-41f0-ad16-b854fcdd5b1f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="124d03ce-73c5-41f0-ad16-b854fcdd5b1f" testId="148ee9ca-84ae-922d-ee8d-c3c23005f153" testName="TestSolve" computerName="DESIKAN" duration="00:00:00.0853782" startTime="2012-08-14T17:46:44.1562500+05:30" endTime="2012-08-14T17:46:44.4218750+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="124d03ce-73c5-41f0-ad16-b854fcdd5b1f">
+      <Output>
+        <StdOut>i val : 0
+i val : 1
+i val : 2
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 3
+in exlude rowwise for row 3
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 4
+in exlude rowwise for row 4
+i val : 5
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 6
+in exlude rowwise for row 6
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 7
+in exlude rowwise for row 7
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+i val : 8
+in exlude rowwise for row 8
+inside Exclude column wise 4
+inside Exclude column wise 4
+inside Exclude column wise 4
+inside Exclude column wise 4
+inside Exclude column wise 4
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 5
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 6
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 7
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+inside Exclude column wise 8
+------- In Pair Elimination ---------------
+removing 9
+removing 9
+inside getsegment... movearea, startrow, startcolm 300
+inside getsegment... movearea, startrow, startcolm 306
+inside getsegment... movearea, startrow, startcolm 303
+inside getsegment... movearea, startrow, startcolm 306
+inside getsegment... movearea, startrow, startcolm 300
+inside getsegment... movearea, startrow, startcolm 330
+inside getsegment... movearea, startrow, startcolm 336
+inside getsegment... movearea, startrow, startcolm 330
+inside getsegment... movearea, startrow, startcolm 333
+inside getsegment... movearea, startrow, startcolm 333
+inside getsegment... movearea, startrow, startcolm 336
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 300
+inside getsegment... movearea, startrow, startcolm 306
+inside getsegment... movearea, startrow, startcolm 303
+inside getsegment... movearea, startrow, startcolm 306
+inside getsegment... movearea, startrow, startcolm 300
+inside getsegment... movearea, startrow, startcolm 330
+inside getsegment... movearea, startrow, startcolm 336
+inside getsegment... movearea, startrow, startcolm 330
+inside getsegment... movearea, startrow, startcolm 333
+inside getsegment... movearea, startrow, startcolm 333
+inside getsegment... movearea, startrow, startcolm 336
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 363
+inside getsegment... movearea, startrow, startcolm 363
+1        4        2        5        9        3        7        8        6        
+5        7        3        8        6        2        9        1        4        
+9        6        8        1        4        7        2        5        3        
+2        5        7        3        1        8        4        6        9        
+3        9        6        4        7        5        8        2        1        
+8        1        4        6        2        9        5        3        7        
+4        2        1        9        5        6        3        7        8        
+7        8        9        2                        6        4        5        
+6        3        5        7        8        4        1        9        2</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

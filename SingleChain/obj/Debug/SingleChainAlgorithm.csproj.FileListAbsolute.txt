@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SingleChain\bin\Debug\SingleChain.dll
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SingleChain\bin\Debug\SingleChain.pdb
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SingleChain\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SingleChain\obj\Debug\SingleChain.dll
-C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SudokuSolver\SingleChain\obj\Debug\SingleChain.pdb
